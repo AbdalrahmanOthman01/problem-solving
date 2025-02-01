@@ -1,62 +1,67 @@
-# Problem Solving Repository 🚀
+# Problem-Solving Repository 🚀
 
-Welcome to my **Problem-Solving Repository**! This repository contains solutions to various coding challenges from platforms like **Codewars, LeetCode, and HackerRank**. The goal is to improve problem-solving skills, optimize code efficiency, and track progress over time.
+Welcome to my **Problem-Solving Repository**, a dedicated space for improving algorithmic and problem-solving skills through challenges from platforms such as **Codewars, LeetCode, and HackerRank**. This repository serves as a structured archive of solutions, emphasizing best practices, efficiency, and learning.
 
-## 📌 About This Repository
-This repository is structured to organize solutions based on platform and difficulty level. Each solution includes clean, well-documented code, and some may include alternative approaches and complexity analysis.
+## 📌 Overview
+This repository is designed to:
+- Maintain a well-structured collection of coding challenges categorized by platform and difficulty.
+- Document solutions with clean, efficient, and optimized code.
+- Include alternative approaches and complexity analysis where applicable.
+- Track progress and enhance coding proficiency for technical interviews and competitive programming.
 
 ## 📂 Repository Structure
 ```
 problem-solving/
-│── README.md         # Repository Overview
-│── Codewars/         # Solutions from Codewars
-│   ├── 7kyu/        # Beginner-friendly problems
-│   ├── 6kyu/        # Intermediate problems
-│── LeetCode/        # Solutions from LeetCode
-│   ├── Easy/        # Easy-level problems
-│   ├── Medium/      # Medium-level problems
-│── HackerRank/      # Solutions from HackerRank
-│   ├── Warmup/      # Basic coding warm-up problems
-│   ├── Algorithms/  # Algorithm-based challenges
-│── notes.md         # Additional notes, tips, and strategies
+│── README.md          # Repository Documentation
+│── Codewars/          # Solutions from Codewars
+│   ├── 7kyu/          # Beginner-level problems
+│   ├── 6kyu/          # Intermediate-level problems
+│── LeetCode/          # Solutions from LeetCode
+│   ├── Easy/          # Entry-level problems
+│   ├── Medium/        # Moderate difficulty problems
+│── HackerRank/        # Solutions from HackerRank
+│   ├── Warmup/        # Fundamental coding problems
+│   ├── Algorithms/    # Algorithmic problem-solving
+│── notes.md           # Additional insights, strategies, and optimization techniques
 ```
 
-## 🔥 Platforms Covered
+## 🔥 Covered Platforms
 - [Codewars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 
 ## 🛠️ How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/problem-solving.git
-   ```
-2. Navigate to a specific problem folder:
-   ```bash
-   cd problem-solving/LeetCode/Easy
-   ```
-3. Run the code (example for Python):
-   ```bash
-   python two_sum.py
-   ```
+### Clone the Repository:
+```bash
+git clone https://github.com/yourusername/problem-solving.git
+```
+### Navigate to a Specific Problem Directory:
+```bash
+cd problem-solving/LeetCode/Easy
+```
+### Execute the Code (Example for Python):
+```bash
+python two_sum.py
+```
 
-## 📝 Notes & Learnings
-- This repository follows **best coding practices**, including meaningful variable names, optimized algorithms, and modularized code.
-- Some solutions include **time and space complexity analysis**.
-- Alternative approaches may be documented in the solution files or in `notes.md`.
+## 📊 Learning Approach & Best Practices
+- Solutions are written following **clean coding principles** to ensure readability and maintainability.
+- Where applicable, solutions include **time and space complexity analysis**.
+- Alternative solutions and optimizations are documented in `notes.md`.
+- Regular updates ensure continuous improvement and refinement of solutions.
 
-## 📈 Progress & Goals
-✅ Improve problem-solving skills <br>
-✅ Learn and implement **efficient algorithms** <br>
-✅ Track growth and maintain **clean code documentation** <br>
-✅ Prepare for technical interviews and coding assessments <br>
+## 🎯 Goals & Roadmap
+✔ Strengthen problem-solving and algorithmic thinking.<br>
+✔ Implement and refine **efficient algorithms**.<br>
+✔ Maintain a well-organized, **documented** solution archive.<br>
+✔ Enhance **interview preparation** and technical assessment skills.<br>
 
-## 🤝 Contributions
-This repository is primarily for personal learning, but if you find any improvements or alternative solutions, feel free to fork and submit a pull request!
+## 🤝 Contribution & Collaboration
+This repository is intended for personal learning and knowledge sharing. However, contributions are welcome! If you have an optimized solution or a different approach, feel free to fork the repository and submit a pull request.
 
-## 📬 Contact
-For any suggestions or discussions, feel free to connect with me via **[LinkedIn](https://www.linkedin.com/in/your-profile/)** or **[GitHub](https://github.com/yourusername/)**.
+## 📬 Contact & Networking
+For discussions, feedback, or collaboration opportunities, connect with me via:
+- **[LinkedIn](https://www.linkedin.com/in/your-profile/)**
+- **[GitHub](https://github.com/yourusername/)**
 
 Happy Coding! 🚀
-
-
