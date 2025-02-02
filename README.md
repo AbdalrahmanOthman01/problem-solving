@@ -33,7 +33,7 @@ problem-solving/
 ## 🛠️ How to Use
 ### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/problem-solving.git
+git clone https://github.com/AbdalrahmanOthman01/problem-solving.git
 ```
 ### Navigate to a Specific Problem Directory:
 ```bash
@@ -61,7 +61,7 @@ This repository is intended for personal learning and knowledge sharing. However
 
 ## 📬 Contact & Networking
 For discussions, feedback, or collaboration opportunities, connect with me via:
-- **[LinkedIn](https://www.linkedin.com/in/your-profile/)**
-- **[GitHub](https://github.com/yourusername/)**
+- **[LinkedIn](https://www.linkedin.com/in/abdalrahman-othman-/)**
+- **[GitHub](https://github.com/AbdalrahmanOthman01/)**
 
 Happy Coding! 🚀
