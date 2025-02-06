@@ -13,9 +13,25 @@ This repository is designed to:
 ```
 problem-solving/
 │── README.md          # Repository Documentation
-│── Codewars/          # Solutions from Codewars
-│   ├── 7kyu/          # Beginner-level problems
-│   ├── 6kyu/          # Intermediate-level problems
+│── Codewars/
+|   ├──Python          # Solutions from Codewars
+│     ├── 8kyu/        # Beginner-level problems
+│     ├── 7kyu/        # Intermediate-level problems
+│     ├── 6kyu/        # Beginner-level problems
+│     ├── 5kyu/        # Intermediate-level problems
+│     ├── 4kyu/        # Beginner-level problems
+│     ├── 3kyu/        # Intermediate-level problems
+│     ├── 2kyu/        # Beginner-level problems
+│     ├── 1kyu/        # Intermediate-level problems
+|   ├──C++             # Solutions from Codewars
+│     ├── 8kyu/        # Beginner-level problems
+│     ├── 7kyu/        # Intermediate-level problems
+│     ├── 6kyu/        # Beginner-level problems
+│     ├── 5kyu/        # Intermediate-level problems
+│     ├── 4kyu/        # Beginner-level problems
+│     ├── 3kyu/        # Intermediate-level problems
+│     ├── 2kyu/        # Beginner-level problems
+│     ├── 1kyu/        # Intermediate-level problems
 │── LeetCode/          # Solutions from LeetCode
 │   ├── Easy/          # Entry-level problems
 │   ├── Medium/        # Moderate difficulty problems
